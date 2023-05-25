@@ -41,4 +41,4 @@ This project is licensed under the MIT License. You can find more details in the
 
 ## Acknowledgments
 
-This app was created as a code along project to enhance my skills in building React applications.
+This app was created as a code along project provided by freeCodeCamp where I was able to enhance my skills in building React applications.
