@@ -7,7 +7,7 @@ function App() {
     <section className='container'>
       <h3>{people.length} birthdays today</h3> {/* checks how big the list is which is 5 currently */}
       <List people={people}/> {/* Add people prop to pass in state */}
-      <button onClick={() => console.log('you clicked me')}>
+      <button onClick={() => setPeople([])}>
         Clear All
       </button>
     </section>
