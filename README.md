@@ -1,6 +1,6 @@
 # Birthday Reminder App 🥳
 
-![Birthday Reminder App](birthdayreminder.png)
+![Birthday Reminder App](birthdayreminder-screenshot.png)
 
 The Birthday Reminder App is a React project that helps you keep track of upcoming birthdays. It provides a simple and intuitive interface for adding and managing birthday reminders.
 
